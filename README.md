@@ -1,2 +1,2 @@
 # Selenium-sample
-My sample works on Selenium web driver
+My sample learning works on Selenium web driver
